@@ -1,0 +1,30 @@
+
+#map 
+ {
+     height: 100%;
+ }
+.dark-primary-color    { background-color: #FFA000; }
+.default-primary-color { background-color: #FFC107; }
+.light-primary-color   { background-color: #FFECB3; }
+.text-primary-color    { color: #212121; }
+.accent-color          { background: #795548; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
+/* 
+body {
+    background-image: url("../img/Tu_cole_1.jpg");
+    background-color: #cccccc;
+} */
+
+.datajam-img{
+    background-image: url("../img/Tu_cole_1.jpg");
+    background-color: #cccccc;
+    height: 500px;
+}
+      
+
+.datajam-theme-principal{
+    background-color: #FFCC80;
+    color: #000000;
+}
