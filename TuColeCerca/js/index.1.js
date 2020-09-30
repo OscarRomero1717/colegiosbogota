@@ -548,7 +548,7 @@ function Search() {
 }
 
 function readDadta() {
-    $.getJSON("response.json", function(datos) {
+    $.getJSON(".response.json", function(datos) {
 
 
         $.each(data, function(i, entry) {
